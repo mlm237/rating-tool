@@ -4,7 +4,7 @@
 
 過去のパフォーマンス履歴から現在のレーティングを計算し、目標レーティングに届くために必要なパフォーマンスを表示するWebアプリです。
 
-デモ: https://（あなたのURL）.streamlit.app
+https://rating-tool-qecwgpkizjmxgj4hhedmps.streamlit.app/
 
 ## できること
 - 過去のパフォーマンス（古い順）を入力すると、現在のレーティングを表示します。
